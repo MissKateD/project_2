@@ -1,7 +1,7 @@
 # Proposal - Predicting the possibility of a Heart Attack
 
 
-##Overview 
+## Overview 
 
 [According to the CDC,](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=DE3EB5A7DC7D076CE0244F57CA26) from 1999 through 2020, the number one leading cause of death was diseases of the heart in the US. According to the data, some 600k+ of deaths during this period were from Heart Disease. Heart Disease while linked to an older demographic, can theoretically happen to someone of any age depending on a number of factors including Family history with Heart Disease, Diet and lack of physical exercise.
 
