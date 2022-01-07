@@ -9,8 +9,8 @@
 Science has improved in determining what factors can lead to Heart Disease to help us improve factors we can control to live better lives. The aim of this project is to determine if we can use Machine Learning in order to determine if a person has a higher chance at suffering from Heart Disease. We will determine what the threshold is for the cumulative stats that determine the increased possibilty of Heart Disease using measurable statistics.
 
 
-##About The Data
-###Data Source
+## About The Data
+### Data Source
 we will be using data sourced from [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). That data was created from the following contributors:
 
 * Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
@@ -20,7 +20,7 @@ we will be using data sourced from [UC Irvine's Machine Learning Repository](htt
 
 The Data set contains 76 attributes, however it suggests to use 14 of them. The suggested 14 UCI recommends to use aredescribed in the Data Dictionary below.
 
-###Data Dictionary
+### Data Dictionary
 The below data points are the 14 the UCI recommend and have been used within experiments with the Cleveland Clinic Foundation. They are listed by the number as they appear in the list of 76 attributes.
 
 
