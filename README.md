@@ -11,7 +11,7 @@ Science has improved in determining what factors can lead to Heart Disease to he
 
 ## About The Data
 ### Data Source
-we will be using data sourced from [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). That data was created from the following contributors:
+We will be using data sourced from [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). That data was created from the following contributors:
 
 * Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
 * University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
