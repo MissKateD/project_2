@@ -20,7 +20,7 @@ We will be using data sourced from [UC Irvine's Machine Learning Repository](htt
 
 The Data set contains 76 attributes, however it suggests to use 14 of them. The suggested 14 UCI recommends to use aredescribed in the Data Dictionary below.
 
-###Data Dictionary
+### Data Dictionary
 The below data points are the 14 the UCI recommend and have been used within experiments with the Cleveland Clinic Foundation. They are listed by the number as they appear in the list of 76 attributes.
 
 
