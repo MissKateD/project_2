@@ -1,4 +1,4 @@
-# Proposal - Predicting the possibility of a Heart Attack
+# Proposal - Predicting the possibility of a Heart Attack Using ML
 
 
 ## Overview 
@@ -9,9 +9,9 @@
 Science has improved in determining what factors can lead to Heart Disease to help us improve factors we can control to live better lives. The aim of this project is to determine if we can use Machine Learning in order to determine if a person has a higher chance at suffering from Heart Disease. We will determine what the threshold is for the cumulative stats that determine the increased possibilty of Heart Disease using measurable statistics.
 
 
-##About The Data
-###Data Source
-we will be using data sourced from [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). That data was created from the following contributors:
+## About The Data
+### Data Source
+We will be using data sourced from [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). That data was created from the following contributors:
 
 * Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
 * University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
@@ -29,20 +29,24 @@ The below data points are the 14 the UCI recommend and have been used within exp
 	* 1 = male
 	* 2 = female
 * 9 (cp) - Reported Chest Pain Type
+	* 1 = typical angina
+	* 2 = atypical angina
+	* 3 = non-anginal pain
+	* 4 = asymptomatic 
 * 10 (trestbps) - Resting Blood Pressure
 * 12 (chol) - Cholestoral in mg/dl (Milligrams per Decilitre)
 * 16 (fbs) - Fasting Blood Sugar > 120 mg/dl
 * 19 (restecg) - Resting Electrocardiographic Results
-	* Value 0: normal
-	* Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
-	* Value 2: showing probable or definite left ventricular hypertrophy
+	* 0 = normal
+	* 1 = having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+	* 2 = showing probable or definite left ventricular hypertrophy
 * 32 (thalach) - Maximum Heart rate Achieved
 * 38 (exang) - Excercise Induced Angina (Chest Discomfort due to lack of Blood Flow, in this cae induced by exercise)
 * 40 (oldpeak) - ST depression induced by exercise relative to rest
 * 41 (slope) - Slope of the peak exercise ST segment
-	* Value 1: upsloping
-	* Value 2: flat
-	* Value 3: downsloping
+	* 1 = upsloping
+	* 2 = flat
+	* 3 = downsloping
 * 44 (ca) - Number of Major Vessels (0-3) colored by [flourosopy](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/fluoroscopy-procedure#:~:text=Fluoroscopy%20is%20a%20study%20of,can%20be%20seen%20in%20detail.)
 * 51 (thal)
 	* 3 = normal
