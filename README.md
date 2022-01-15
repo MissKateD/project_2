@@ -1,4 +1,4 @@
-# Proposal - Predicting the Possibility of a Heart Attack Using ML
+# Can Machine Learning Improve The Diagnosis of Heart Disease
 
 
 ## Overview 
