@@ -1,12 +1,12 @@
-# Proposal - Predicting the possibility of a Heart Attack Using ML
+# Proposal - Predicting the Possibility of a Heart Attack Using ML
 
 
 ## Overview 
 
-[According to the CDC,](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=DE3EB5A7DC7D076CE0244F57CA26) from 1999 through 2020, the number one leading cause of death was diseases of the heart in the US. According to the data, some 600k+ of deaths during this period were from Heart Disease. Heart Disease while linked to an older demographic, can theoretically happen to someone of any age depending on a number of factors including Family history with Heart Disease, Diet and lack of physical exercise.
+[According to the CDC,](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=DE3EB5A7DC7D076CE0244F57CA26) from 1999 through 2020, the number one leading cause of death was diseases of the heart in the US. According to the data, some 600k+ of deaths during this period were from Heart Disease. Heart Disease while linked to an older demographic, can theoretically happen to someone of any age depending on a number of factors including family history with Heart Disease, diet and lack of physical exercise.
 
 ## Objective
-Science has improved in determining what factors can lead to Heart Disease to help us improve factors we can control to live better lives. The aim of this project is to determine if we can use Machine Learning in order to determine if a person has a higher chance at suffering from Heart Disease. We will determine what the threshold is for the cumulative stats that determine the increased possibilty of Heart Disease using measurable statistics.
+Science has improved in determining what factors can lead to Heart Disease to help us improve factors we can control to live better lives. The aim of this project is to determine if we can use Machine Learning in order to determine if a person has a higher chance at suffering from heart disease. We will determine what the threshold is for the cumulative stats that determine the increased possibilty of Heart Disease using measurable statistics.
 
 
 ## About The Data
@@ -53,3 +53,6 @@ The below data points are the 14 the UCI recommend and have been used within exp
 	* 6 = fixed defect
 	* 7 = reversable defect
 * 58 (num) - The predicted Attribute
+
+## Conclusion
+We first proposed to use a machine learning model to predict heart attacks and with our dataset the easiest choice was to use linear regression but the results were not adequate for such a delicate concern. Our efforts involved training and testing our dataset into additional models in attempts to reduce the number of false negatives. The use of machine learning to determine if a person has a higher chance at suffering from heart disease remained our focus. After much testing and varied results we wanted to present the outcomes of our multiple machine learning models. As much as we'd love to predict heart attacks we need more factors that lead to Heart Disease in our dataset to reduce the adverse effects of a false negatives.
