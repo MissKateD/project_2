@@ -1,5 +1,9 @@
 # Can Machine Learning Improve The Diagnosis of Heart Disease
 
+# Group Memebers
+* Kate Davis
+* Servontius Turner
+* Steve Olsen
 
 ## Overview 
 
